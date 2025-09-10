@@ -1,11 +1,10 @@
 ## 👋 Hi, I'm Alyssa!
 
-#### 🎓 Sophomore at the University of Central Florida, studying Computer Science (Graduation: May 2027)
+#### 🎓 Junior at the University of Central Florida, studying Computer Science (Graduation: May 2027)
 #### 🔭 Aspiring Machine Learning Engineer
 
 I am passionate about machine learning and interested in pursuing a career in the tech industry. I’m big on continuously learning and building my skills, and believe taking initiative is key to growth. (Ask me about growing my technical skills and leadership as a [Break Through Tech Fellow](https://breakthroughtech.org/)!)
 
-🛠 I am doing research in Spring 2025. I will work on a computer vision project, which involves playing video games and creating novel activities to train deep models.
 
 🎯 **Featured Project**: [YouTube Viral Video Forecasting](https://github.com/a-jacewicz/youtube-viral-video-forecasting)
 - Check out my team's project repository for Youtube Viral Video View Prediction as part of our experience as AI fellows working with Google.
